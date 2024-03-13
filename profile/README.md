@@ -1,5 +1,5 @@
 <h1 align = "center">쩝쩝박사 PixSTAR guide</h1>
-<p align="center"><img align="center" width= 400px src="https://github.com/Pixel-Power/.github/assets/134928447/e2ff2ef3-4c7a-4118-a86a-014f14a0dc3f"> </p>
+<p align="center"><img align="center" width= 400px src="https://github.com/nunu1101/React/assets/134928447/a3255afd-a5ce-4791-99a1-a8558eb862d6"> </p>
 
 
 ## 프로젝트 소개
@@ -9,6 +9,10 @@
 
 ## 사용 기술
 <img src="https://github.com/Pixel-Power/.github/assets/134928447/e2cc050b-d6fe-48fe-a534-c431af00695e">
+
+## UseCase Diagram
+<img src="https://github.com/nunu1101/React/assets/134928447/f1dedfe3-67d7-4da8-971a-bf30292845b3">
+<img src="https://github.com/nunu1101/React/assets/134928447/f76333f4-2afc-4fb2-8f40-69ff3348965a">
 
 ## Member of Pixel Power 💪
 |                                         Project Manager                                          |                                         Configuration Manager                                          |                                                                                   |                                                                                  |                                                                               | 
