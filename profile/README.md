@@ -1,5 +1,5 @@
 <h1 align = "center">쩝쩝박사 PixSTAR guide</h1>
-<p align="center"><img align="center" width= 300px src="https://github.com/Pixel-Power/.github/assets/134928447/ff13568a-ea99-4ad0-97dd-64117275d9df"><img align="center" width= 300px src="https://github.com/Pixel-Power/.github/assets/134928447/e2ff2ef3-4c7a-4118-a86a-014f14a0dc3f"> </p>
+<p align="center"><img align="center" width= 400px src="https://github.com/Pixel-Power/.github/assets/134928447/e2ff2ef3-4c7a-4118-a86a-014f14a0dc3f"> </p>
 
 
 ## 프로젝트 소개
