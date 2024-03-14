@@ -10,7 +10,7 @@
 ## 사용 기술
 <img src="https://github.com/Pixel-Power/.github/assets/134928447/e2cc050b-d6fe-48fe-a534-c431af00695e">
 
-## UseCase Diagram
+## UseCase Diagram (사용자,관리자 기능)
 <img src="https://github.com/nunu1101/React/assets/134928447/f1dedfe3-67d7-4da8-971a-bf30292845b3">
 <img src="https://github.com/nunu1101/React/assets/134928447/f76333f4-2afc-4fb2-8f40-69ff3348965a">
 
