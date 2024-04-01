@@ -7,6 +7,10 @@
 - pixel power만의 국내 맛집의 재 방문 수를 기준으로 선정하고 가격대 별 PixSTAR 맛집 소개
 - 홈페이지 이용자의 평점과 좋아요 수를 기준으로 선정된 PixSTAR맛집 소개
 
+## 메인페이지
+<img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/211bbeb3-f678-46b1-9625-802d72b08867">
+<img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/e13b5521-33dc-4f5f-87b4-a0856a0cb50e">
+
 ## 사용 기술
 <img src="https://github.com/Pixel-Power/.github/assets/134928447/e2cc050b-d6fe-48fe-a534-c431af00695e">
 
@@ -17,6 +21,14 @@
 ## Flow Chart
 <img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/8d009606-f039-4b0f-8607-87e24c677237">
 
+## 메뉴 구조도
+<img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/ff1210b0-7dab-404b-bb5f-325554da817d">
+
+## 사이트맵
+<img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/839fc928-4eeb-4637-a28d-8308689b891d">
+
+## 일정관리
+<img src="https://github.com/Pixel-Power/Pixstar-guide/assets/134928447/3d95db63-d7dd-473b-b601-1c1434470f17">
 
 ## Member of Pixel Power 💪
 |                                         Project Manager                                          |                                         Configuration Manager                                          |                                                                                   |                                                                                  |                                                                               | 
